@@ -1,0 +1,2 @@
+name = "deviceresourcegroup"
+location = "centralus"
