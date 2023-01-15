@@ -5,6 +5,8 @@
 
 trigger:
 - main
+resources:
+- repo: self
 variables: 
 - group: terraformEnvVars
 steps:
