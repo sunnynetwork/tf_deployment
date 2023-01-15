@@ -32,7 +32,7 @@ provider "azurerm" {
 
 module "create_resource_group" {
   source = "./modules/create_rg"
-#  name = "deviceresourcegroup"
+#  name = "deviceresourcegroup1"
 #  location = "centralus"  
   name = local.name
   location = local.location  
