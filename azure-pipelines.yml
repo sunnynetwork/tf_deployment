@@ -6,7 +6,7 @@
 trigger:
 - main
 variables: 
-    - group: TeraformEnvVars
+- group: terraformEnvVars
 steps:
 - script: |
     set -e
