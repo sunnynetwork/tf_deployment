@@ -1,0 +1,2 @@
+name = "onedivineresourcegroup"
+location = "centralus"

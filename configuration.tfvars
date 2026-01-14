@@ -1,2 +1,0 @@
-name = "deviceresourcegroup"
-location = "centralus"
