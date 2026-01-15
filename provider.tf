@@ -9,9 +9,9 @@ terraform {
 
  backend "azurerm" {
         resource_group_name  = "myterraformrg"
-        storage_account_name = "terraformstoragesjakhwal"
-        container_name       = "terraformstate"
-        key                  = "terraform.tfstate"
+        storage_account_name = "sunilterraformstorage"
+        container_name       = "sunilterraformcontainer"
+        key                  = "octopus-terraform.tfstate"
     }
  
 
