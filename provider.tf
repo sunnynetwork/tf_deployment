@@ -11,7 +11,7 @@ terraform {
         resource_group_name  = "sunilterraformrg"
         storage_account_name = "sunilterraformstorage"
         container_name       = "sunilterraformcontainer"
-        key                  = "#{Octopus.Environment.Name}/terraform.tfstate"
+        #key                  = "#{Octopus.Environment.Name}/terraform.tfstate"
     }
  
 
