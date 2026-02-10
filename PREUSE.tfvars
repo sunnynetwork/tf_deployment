@@ -1,2 +1,0 @@
-name = "PREonedivineresourcegroup"
-location = "centralus"
